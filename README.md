@@ -1,10 +1,12 @@
 # Tableau Projects
 
-The Tableau dashboard workflow diagram outlines a structured process for creating impactful dashboards using Tableau. This process is divided into four main stages: Analyze User Requirements, Prepare Data Source, Build Charts, and Build Dashboards. Each stage is broken down into further substeps, providing a clear path to transform raw data into actionable visual insights.
+
 
 
 ## Real-Life Dashboard Building Workflow
 ![Tableau Dashboard Workflow](https://github.com/jeffreykktu/tableau-projects/assets/42402011/b408dae9-b6cf-4674-81bc-4f93713cc871)
+
+The Tableau dashboard workflow diagram outlines a structured process for creating impactful dashboards using Tableau. This process is divided into four main stages: Analyze User Requirements, Prepare Data Source, Build Charts, and Build Dashboards. Each stage is broken down into further substeps, providing a clear path to transform raw data into actionable visual insights.
 
 ## Steps
 ### 1. Analyze User Requirements
