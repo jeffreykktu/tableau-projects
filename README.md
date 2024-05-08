@@ -1,7 +1,8 @@
 # Tableau Projects
 
 ## End-to-end Sales and Customer Dashboard Project 
-- Check the `end-to-end-sales-and-customer-dashbaord.md` for a detailed walkthrough.
+- Link to Dashboard: https://public.tableau.com/views/SalesDashboard_17150536141310_17151016510970/SalesDashboard?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+- Check the [`end-to-end-sales-and-customer-dashbaord.md`](https://github.com/jeffreykktu/tableau-projects/blob/main/end-to-end-sales-and-customer-dashbaord.md) for a detailed walkthrough.
 - Following the "Tableau Dashboard Building Workflow" below.
 
 
