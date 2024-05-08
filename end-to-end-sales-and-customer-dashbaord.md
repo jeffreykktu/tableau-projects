@@ -75,4 +75,4 @@ _Data Filters_
 4. products.csv
 
 ## Data Model
-![image](https://github.com/jeffreykktu/tableau-projects/assets/42402011/d72ff363-d2d5-4b49-81ff-722b36f82cde)
+![ERD](https://github.com/jeffreykktu/tableau-projects/assets/42402011/855cf1a6-2bd0-4841-adb2-db45a6bf787e)
