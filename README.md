@@ -1,6 +1,8 @@
 # Tableau Projects
 
-
+## End-to-end Sales and Customer Dashboard Project 
+- Following the "Tableau Dashboard Building Workflow" below.
+- Check the sub-folder `end-to-end-sales-and-customer-dashbaord` for detail walkthrough.
 
 
 ## Real-Life Dashboard Building Workflow
